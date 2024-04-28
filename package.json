@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.0",
+    "express-session": "^1.18.0",
+    "mammoth": "^1.7.1",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
